@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @judejoshua
-- 👀 I’m interested in product design, front-end development and back-end devvelopment.
-- 🌱 I’m currently learning React.js and I have experience in php, javascript, and html/css. You can check my portfolio on https://judejoshua.me to learn more.
+- 👀 I’m interested in product design, mentoring and front-end development.
+- 🌱 I’m have experience in React.js, javascript, jquery, Vue.js and html/css. I also have experience in PHP and Laravel as I have used them in the past to collborate on some fullstack development projects.
 - 💞️ I’m interested in collaborating on product design and front-end development projects.
 - 📫 You can reach me via my email on hello@judejoshua.me.
 
